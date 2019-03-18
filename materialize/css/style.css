@@ -1,0 +1,51 @@
+.nav-fluid {
+    width: 90% !important;
+}
+
+.home-fluid {
+    margin-top: 40px;
+    width: 90% !important;
+}
+
+.fluid {
+    margin-top: 40px;
+    width: 90% !important;
+}
+
+.footer-fluid {
+    width: 90% !important;
+}
+
+.text {
+    text-transform: uppercase;
+}
+
+.submenu-item {
+    font-size: 11px;
+}
+
+.brand-text {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+.tag {
+    height: auto;
+}
+
+.nav-search {
+    width: 300px !important;
+}
+
+/* ------------posts------------ */
+.large-post {
+    height: 400px !important;
+}
+
+.medium-post {
+    width: 300px !important;
+}
+
+.small-post {
+    height: 225px !important;
+}
