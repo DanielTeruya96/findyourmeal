@@ -11,17 +11,17 @@
 		<div class="navbar-fixed">
 			<nav class="teal darken-1">
 				<div class="nav-wrapper container nav-fluid">
-					<a href="home.html" class="brand-logo brand-text">Find your meal</a>
+					<a href="index.php" class="brand-logo brand-text">Find your meal</a>
 					<a href="#" data-activates="mobile-demo1" class="button-collapse"><i class="material-icons">menu</i></a>
 					<ul id="nav-mobile1" class="right hide-on-med-and-down">
-						<li><a href="receita.html" class="text">Envie sua receita</a></li>
-						<li><a href="cadastro.html" class="text">Cadastre-se</a></li>
-						<li><a href="login.html" class="text">Login</a></li>
+						<li><a href="receita.php" class="text">Envie sua receita</a></li>
+						<li><a href="cadastro.php" class="text">Cadastre-se</a></li>
+						<li><a href="login.php" class="text">Login</a></li>
 					</ul>
 					<ul class="side-nav" id="mobile-demo1">
-						<li><a href="receita.html" class="text">Envie sua receita</a></li>
-						<li><a href="cadastro.html" class="text">Cadastre-se</a></li>
-						<li><a href="login.html" class="text">Login</a></li>
+						<li><a href="receita.php" class="text">Envie sua receita</a></li>
+						<li><a href="cadastro.php" class="text">Cadastre-se</a></li>
+						<li><a href="login.php" class="text">Login</a></li>
 					</ul>
 					<form>
 						<div class="right input-field nav-search">
