@@ -1,0 +1,4 @@
+BUGS
+  -navbar não renderiza direito quando a janela diminui.
+  -depois de logado, o menu superior nao pode mais exibir o botão de login
+  -radioButton da tela de cadastro nao ta funcionando
